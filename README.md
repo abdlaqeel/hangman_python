@@ -1,4 +1,4 @@
-# README For Game
+# README for Hangman
 
 Information
 Hangman Game coded in Python
